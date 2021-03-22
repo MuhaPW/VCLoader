@@ -1,7 +1,7 @@
 <?php 
     // Ключ доступа сообщества
-    define('TOKEN', '8b0115c6f89f2885d77e31f5a5c58a7759cf2e428710e566051a071650145fcc3deef397464792aa8973f');
+    define('TOKEN', 'YOU_API_KEY');
     
     // ID сообщества
-    define('GROUP_ID', '202891620');
+    define('GROUP_ID', 'YOU_GROUP_ID');
 ?>
